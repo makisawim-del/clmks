@@ -8,4 +8,5 @@ vgvvgv
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-- 🔭 I’m currently working on illustration **clinyi**
+- 🔭 I’m currently working on illustration for **clinyi**
+-🌱 I’m currently learning adobe skill
